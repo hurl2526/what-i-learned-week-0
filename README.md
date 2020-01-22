@@ -69,25 +69,32 @@ Do this as often as possible do the below steps to save work to GitHub
 *Markdown Portfolio
 
 
-vs code extensions: 4 square thing in visual studio code, type themes search for different themes and rules that will help make coding easier 
+## vs code extensions: 
+4 square thing in visual studio code, type 'themes' then search for different themes and rules that will help make coding easier.
 
-Push Pull Project:
--create repository (name will be folder/directory created)
--after making repository go to settings-collaborators add person so he can push and pull
--in terminal, cd to folder you want the folder in then type: git clone url of repository which will add folder into where youre currently located
--cd into that newly created folder
--Open README.md should open it into visual studio code
--Once opened in visual studio code you can edit the readme file and save
--once saved go back to terminal to git add/commit/push to GitHub
--at this point collaborator should be able to git pull then open Read.me to edit document and repeat process
+## Push Pull Project:
+-create repository (name will be folder/directory created)  
 
-Markdown:
-simplenote app
+-after making repository go to settings-collaborators add person so he can push and pull  
+
+-in terminal, cd to folder you want the folder in then type: git clone url of repository which will add folder into where youre currently located  
+
+-cd into that newly created folder  
+
+-Open README.md should open it into visual studio code  
+
+-Once opened in visual studio code you can edit the readme file and save  
+
+-once saved go back to terminal to git add/commit/push to GitHub  
+
+-at this point collaborator should be able to git pull then open Read.me to edit document and repeat process  
+
+
+# Markdown:
 Markdowncheatsheets: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://dillinger.io/
-also saved presentation in downloads
+https://dillinger.io/  
 
-HTML basics
+Also saved Markdown presentation in downloads  
 
-
-![markdown-meme](https://media.makeameme.org/created/Markdowns-Markdowns-everywhere.jpg)
+# HTML basics
+[website that explains everything we learned](http://www.simplehtmlguide.com/cheatsheet.php)
